@@ -46,7 +46,7 @@ conda create -n geonum-velov-py39 python=3.9
 * Activez l'environnement
 
 ```bash
-conda activate dsc-5gi-py39
+conda activate geonum-velov-py39
 ```
 
 * Installer le paquet fiona avec `conda` (cela permet d'éviter un problème lors de l'installation de geopandas avec `pip`)
