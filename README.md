@@ -29,7 +29,7 @@ Il existe plusieurs façons d'installer conda sur votre ordinateur:
 * Cloner ce dépôt github
 
 ```bash
-git clone https://gitlab.insa-lyon.fr/lmoncla/gi-5-dsc.git
+git clone https://github.com/ludovicmoncla/master-geonum-tutorials.git
 ```
 
 * 
