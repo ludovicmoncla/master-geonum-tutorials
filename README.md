@@ -1,4 +1,4 @@
-![Master GEONUM](https://mastergeonum.files.wordpress.com/2021/10/rvb_original.png)
+![lyon2 geonum](https://perso.liris.cnrs.fr/lmoncla/GEONUM/fig/logos.png)
 
 # Master GEONUM - 2A3 - Gestion et traitement des données spatio-temporelles
 ***
