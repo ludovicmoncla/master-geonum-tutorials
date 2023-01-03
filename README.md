@@ -1,4 +1,4 @@
-![INSA](https://mastergeonum.files.wordpress.com/2021/10/rvb_original.png)
+![Master GEONUM](https://mastergeonum.files.wordpress.com/2021/10/rvb_original.png)
 
 # Master GEONUM - 2A3 - Gestion et traitement des données spatio-temporelles
 ***
@@ -36,7 +36,6 @@ git clone https://gitlab.insa-lyon.fr/lmoncla/gi-5-dsc.git
 
 ### 2.2 Configurer l'environnement avec toutes les dépendances
 
-
 * Créez un nouvel environnement appelé `geonum-velov-py39`
 
 ```bash
@@ -62,7 +61,7 @@ pip install -r requirements.txt
 ```
 
 
-### 2.3 Lancer le serveur jupyter
+## 3 Lancer le serveur jupyter
 
 ```bash
 jupyter notebook
