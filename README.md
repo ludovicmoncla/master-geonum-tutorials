@@ -6,17 +6,20 @@
 Ce dépôt git contient les fichiers pour le cours "2A3 - Gestion et traitement des données spatio-temporelles" du Master [GEONUM](https://mastergeonum.org/programme/).
 
 
-*******
-Notebooks
- 1. [Exploration et manipulation de données en Python](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/01.velov-data-exploration.ipynb)
- 2. [Analyse et visualisation de données spatio-temporelles](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb)
- 3. [Un peu d'intelligence artificielle](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb)
-
-*******
-
-Ce document explique comment installer et configurer un environnement python avec conda et installer toutes les bibliothèques requises.
+L'objectif de ce tutoriel est d'appréhender la problématique d'analyse de données spatio-temporelles grâce à l'utilisation de librairies Python.
+Pour cela nous allons travailler sur un cas d'étude visant la visualisation et le traitement des données de disponibilités des stations Vélo'v de la Métropole de Lyon. 
 
 **Information** Pour ceux qui ont des difficultés à installer un environnement python sur leur ordinateur, vous pouvez simplement télécharger les fichiers des notebooks (`.ipynb`) à partir de ce dépôt et les exécuter à distance avec [Google Colab](http://colab.research.google.com) (*Compte Google requis*).
+
+*******
+Notebooks :
+ 1. [Exploration et manipulation de données en Python](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/01.velov-data-exploration.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/01.velov-data-exploration.ipynb)
+ 2. [Analyse et visualisation de données spatio-temporelles](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb)
+ 3. [Un peu d'intelligence artificielle](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb)
+
+*******
+
+La suite de ce document explique comment installer et configurer un environnement python avec conda et installer toutes les bibliothèques requises.
 
 ***
 
