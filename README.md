@@ -42,7 +42,6 @@ Il existe plusieurs façons d'installer conda sur votre ordinateur:
 git clone https://github.com/ludovicmoncla/master-geonum-tutorials.git
 ```
 
-* 
 
 ### 2.2 Configurer l'environnement avec toutes les dépendances
 
