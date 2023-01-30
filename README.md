@@ -17,6 +17,13 @@ Notebooks :
  2. [Analyse et visualisation de données spatio-temporelles](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/02.velov-maps.ipynb)
  3. [Un peu d'intelligence artificielle](https://github.com/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ludovicmoncla/master-geonum-tutorials/blob/main/notebooks/03.velov-dsc.ipynb)
 
+
+*******
+Cheat Sheets :
+* [Pandas Cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Python for Data Science Cheat sheet](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) (Pandas, Matplotlib, Scikit-Learn, etc.)
+
+
 *******
 
 La suite de ce document explique comment installer et configurer un environnement python avec conda et installer toutes les bibliothèques requises.
