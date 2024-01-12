@@ -9,7 +9,7 @@ Ce dépôt git contient les fichiers pour le cours "2A3 - Gestion et traitement 
 L'objectif de ce tutoriel est d'appréhender la problématique d'analyse de données spatio-temporelles grâce à l'utilisation de librairies Python.
 Pour cela nous allons travailler sur un cas d'étude visant la visualisation et le traitement des données de disponibilités des stations Vélo'v de la Métropole de Lyon. 
 
-**Information** Pour ceux qui ont des difficultés à installer un environnement python sur leur ordinateur, vous pouvez simplement télécharger les fichiers des notebooks (`.ipynb`) à partir de ce dépôt et les exécuter à distance avec [Google Colab](http://colab.research.google.com) (*Compte Google requis*).
+**Information** Pour ceux qui ont des difficultés à installer un environnement python sur leur ordinateur, vous pouvez simplement executer les notebooks (`.ipynb`) à distance avec [Google Colab](http://colab.research.google.com) (*Compte Google requis*).
 
 *******
 Notebooks :
