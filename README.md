@@ -37,7 +37,7 @@ Nous l'utiliserons pour gérer l'environnement python et toutes les bibliothèqu
 Il existe plusieurs façons d'installer conda sur votre ordinateur:
 1. [Anaconda distribution](https://www.anaconda.com/products/distribution): fournit des applications GUI et de nombreux paquets de science des données déjà installés.
 2. [Miniconda](https://docs.conda.io/en/latest/miniconda.html): un installateur minimal pour conda, sans application GUI
-3. [Miniforge](https://github.com/conda-forge/miniforge): un autre installateur minimal pour conda, sans application GUI (recommandé pour les puces Mac M1 ou M2 (Apple Silicon))
+3. [Miniforge](https://github.com/conda-forge/miniforge): un autre installateur minimal pour conda, sans application GUI (recommandé pour les puces Mac M* (Apple Silicon))
 
 ## 2. Configurer un environnement Conda
 
@@ -52,16 +52,16 @@ git clone https://github.com/ludovicmoncla/master-geonum-tutorials.git
 
 ### 2.2 Configurer l'environnement avec toutes les dépendances
 
-* Créez un nouvel environnement appelé `geonum-velov-py39`
+* Créez un nouvel environnement appelé `geonum-velov-py311`
 
 ```bash
-conda create -n geonum-velov-py39 python=3.9
+conda create -n geonum-velov-py311 python=3.11
 ```
 
 * Activez l'environnement
 
 ```bash
-conda activate geonum-velov-py39
+conda activate geonum-velov-py311
 ```
 
 * Installer le paquet fiona avec `conda` (cela permet d'éviter un problème lors de l'installation de geopandas avec `pip`)
