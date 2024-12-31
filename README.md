@@ -67,7 +67,7 @@ conda activate geonum-velov-py311
 * Installer le paquet fiona avec `conda` (cela permet d'éviter un problème lors de l'installation de geopandas avec `pip`)
 
 ```bash
-conda install fiona=1.8.21
+conda install fiona=1.10.1
 ```
 
 * Install dependencies with `pip`
